@@ -1,2 +1,2 @@
 # to-do-list
-This repository is for project to-do list letsgrowmore
+This directory is for task1 to-dolist letsgrowmore 
